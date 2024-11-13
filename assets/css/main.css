@@ -2828,11 +2828,11 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 blockquote {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: rgba(255, 253, 253, 0.125);
 			}
 
 			.wrapper.style1 code {
-				background: rgba(255, 255, 255, 0.075);
+				background: rgba(252, 252, 252, 0.075);
 			}
 
 			.wrapper.style1 header p {
@@ -2844,7 +2844,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #464646;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 label {
